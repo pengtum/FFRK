@@ -1,4 +1,4 @@
-# FFRK: Feature-Free Regression Kriging
+# FFRK: Focal-Feature Regression Kriging
 
 This repository contains the implementation of **FFRK (Focal-Feature Regression Kriging)**, baseline/comparison methods, experiment data, paper figures, and reproducible results.
 
